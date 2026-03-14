@@ -35,3 +35,7 @@ Full guide: https://grafana.com/tutorials/install-grafana-on-raspberry-pi/
 The dashboard shows temperature, humidity and luminosity panels
 with data collected every 2 minutes from the Arduino sensors.
 
+## Dashboard preview
+
+![Grafana Dashboard](grafana.png)
+

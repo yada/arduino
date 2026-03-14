@@ -20,6 +20,10 @@ graph LR
 4. **Grafana** — Connects to MariaDB and provides a public dashboard for visualization
 5. **Website** — Embeds the Grafana dashboard in a clean, easy-to-use web page (see `website/`)
 
+### Grafana dashboard preview
+
+![Grafana Dashboard](grafana/grafana.png)
+
 ## Arduino wiring
 
 ```mermaid
