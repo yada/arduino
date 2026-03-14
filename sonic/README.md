@@ -50,3 +50,8 @@ Distance: 25.01
 ```
 
 Baud rate: **9600**
+
+## Credits
+
+- https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
+- https://projecthub.arduino.cc/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-7cabe1

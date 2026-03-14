@@ -24,3 +24,8 @@ python3 python-serial-from-arduino.py
 ```bash
 pip install pyserial
 ```
+
+## Credits
+
+- https://electroniqueamateur.blogspot.com/2019/11/pyserial-communiquer-en-python-avec-un.html
+- https://gist.github.com/ypelletier/7d155791e01c249a26ca
