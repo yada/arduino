@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This is a simple demonstration of how to read serial data from an Arduino board using Python and the `pyserial` library. It is not meant for production use — just a quick way to verify that serial communication works.
+This is a simple demonstration of how to read serial data from an Arduino board using Python and the `pyserial` library. It is not meant for production use, it is just a quick way to verify that serial communication works.
 
 ## Script: `python-serial-from-arduino.py`
 
