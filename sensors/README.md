@@ -24,6 +24,10 @@ graph LR
 
 ![Grafana Dashboard](grafana/grafana.png)
 
+## Website preview
+
+![Website Dashboard](website/site.png)
+
 ## Arduino wiring
 
 ```mermaid
